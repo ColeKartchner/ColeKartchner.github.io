@@ -4,9 +4,9 @@
 
   - <b>Databases (https://github.com/ColeKartchner/...)</b>
 
-  - <b>Software Engineering (https://github.com/ColeKartchner/...)</b>
+  - <b>Software Engineering (https://github.com/ColeKartchner/BB-sAdventure)</b>
 
-  - <b>Compilers (https://github.com/ColeKartchner/...)</b>
+  - <b>Compilers (https://github.com/ColeKartchner/MiniJava)</b>
 
   - <b>Data Structures (https://github.com/ColeKartchner/...)</b>
 
