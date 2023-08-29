@@ -6,7 +6,7 @@
 
   - <b>Software Engineering (https://github.com/ColeKartchner/BB-sAdventure)</b>
 
-  - <b>Compilers (https://github.com/ColeKartchner/MiniJava)</b>
+  - <b>Compilers (https://github.com/ColeKartchner/MiniJava/tree/project7)</b>
 
   - <b>Data Structures (https://github.com/ColeKartchner/...)</b>
 
