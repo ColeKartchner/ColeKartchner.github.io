@@ -8,7 +8,7 @@
 
   - <b>Compilers (https://github.com/ColeKartchner/MiniJava/tree/project7)</b>
 
-  - <b>Data Structures (https://github.com/ColeKartchner/...)</b>
+  - <b>Data Structures (https://github.com/ColeKartchner/AsteroidsGame/tree/main)</b>
 
   - <b>Computer Security (https://github.com/ColeKartchner/...)</b>
 
