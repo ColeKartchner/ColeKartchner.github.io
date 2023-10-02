@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - <b>Databases (https://github.com/ColeKartchner/...)</b>
+  - <b>Databases (https://github.com/ColeKartchner/DatabasesProject/blob/main))</b>
 
   - <b>Software Engineering (https://github.com/ColeKartchner/BB-sAdventure)</b>
 
