@@ -14,10 +14,6 @@
 
   - <b>Data Structures (https://github.com/ColeKartchner/AsteroidsGame/tree/main)</b>
 
-  - <b>Computer Security (https://github.com/ColeKartchner/...)</b>
-
-  - <b>Computer Networks (https://github.com/ColeKartchner/...)</b>
-
-  - <b>Web Applications (https://github.com/ColeKartchner/...)</b>
+  - <b>Computer Networks (https://github.com/ColeKartchner/ChatroomProtocol/tree/main)</b>
 
   - <b>Senior Project (https://github.com/ColeKartchner/...)</b>
